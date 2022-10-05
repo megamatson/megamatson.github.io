@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: megamatson.github.io
+Token: 0e5b6d4c99671e10b275b8478265fa15afb0540ef8c1a186d4f8c164aa596f82
